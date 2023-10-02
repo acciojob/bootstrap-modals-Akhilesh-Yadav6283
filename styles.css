@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+#newton-modal{
+	position:fixed;
+	top:25%;
+}
